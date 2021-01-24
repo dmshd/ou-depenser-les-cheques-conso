@@ -44,3 +44,11 @@ curl 'https://sodexo4you.be/passmap_conso/ajax/affiliates2' \
   --data-raw 'affiliate%5Bwhere%5D=&affiliate%5Bwhat%5D=&affiliate%5Bproduct%5D=conso&affiliate%5Bpage%5D=0&affiliate%5Bcategory_id%5D=&affiliate%5Bgroup_id%5D=&affiliate%5Baffiliate_id%5D=&affiliate%5Blatitude%5D=50.694827&affiliate%5Blongitude%5D=4.54&affiliate%5Bzoom%5D=8&lang=fr' \
   --compressed > map.json
   ```
+## 01-json_to_csv.py
+It's just a script that convert all json files he can find in the current directory and convert them to csv recursively.
+
+## 02-get_location_from_lat_lon.py
+It's a POC file that reverse Latitude Longitude to full address using geopy.
+
+## 03-json_to_csv_rich.py
+Here I am using csv, geopy and the initial json data to generate an enriched file with more data and a google map link for each shop.
