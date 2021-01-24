@@ -1,0 +1,21 @@
+id,name,ref,address,zip_code,city,state,country,tel,website,email,soon_available,latitude,longitude,type,categories,distance
+276291,EasyJump.be,BECO122,avenue Amelie 1,1330,Rixensart,,BE,,,,0,50.7073021,4.5241160,Chèque consommation,Sport,1.7807867528267725
+278148,Commune de Rixensart,BECO1992,avenue Clermont Tonnerre 26,1330,Rixensart,,BE,,,,0,50.7128258,4.5367789,Chèque consommation,Sport,2.012779296685379
+278284,Librairie le Chat Botté,BECO2128,rue du monastère 4,1330,Rixensart,,BE,,,,0,50.7122040,4.5303807,Chèque consommation,Librairie,2.046109923777314
+279338,BGS ELECTRICITE,BECO3186,Avenue de Mérode 11,1330,Rixensart,,BE,,,,0,50.7125053,4.5293918,Chèque consommation,Electro,2.101445155287541
+279283,EVOLU'HOME,BECO3131,Joséphine Rauscent 24,1300,WAVRE,,BE,,,,0,50.6930923,4.5718780,Chèque consommation,Décoration,2.2521082822536336
+277997,SPORT VITAL,BECO1840,avenue Yvan 15,1330,RIXENSART,,BE,,,,0,50.7189903,4.5255709,Chèque consommation,Sport,2.8705382059998197
+278075,FOX & Cie Genval,BECO1919,rue des Ateliers 46,1332,Genval,,BE,,,,0,50.7210655,4.5135193,Chèque consommation,Jouets,3.4601510941012075
+277976,JUNA,BECO1819,rue de Rixensart 4,1332,Genval,,BE,,,,0,50.7234650,4.5133338,Chèque consommation,Beauté et bien-être,3.694191700627873
+277271,Centre de Formation Sportive,BECO1113,Rue Provinciale 225,1301,Bierges,,BE,,,,0,50.7063026,4.5903931,Chèque consommation,Sport,3.7688649083266657
+277272,Centre de Formation Sportive,BECO1114,Rue Provinciale 225,1301,Bierges,,BE,,,,0,50.7063026,4.5903931,Chèque consommation,Sport,3.7688649083266657
+278804,La Laguna,BECO2646,Avenue du lac 2,1332,Genval,,BE,,,,0,50.7268372,4.5222893,Chèque consommation,Restaurant,3.768869174148287
+276198,Martin's Brugge,BECO28,Avenue Hoover 20,1332,Genval,,BE,,,,0,50.7282066,4.5139203,Chèque consommation,Hotel,4.13816302887524
+277065,Brasserie du Lac,BECO901,avenue du lac 100,1332,genval,,BE,,,,0,50.7302170,4.5109720,Chèque consommation,Restaurant,4.431205282415745
+277995,Aventure Parc,BECO1838,Rue Sainte Anne 152,1300,WAVRE,,BE,,,,0,50.7188911,4.5963621,Chèque consommation,Sport,4.783343926677274
+277187,Lunch Garden,BECO1027,Blv. de l'Europe 47,1301,Bierges,,BE,,,,0,50.7120743,4.6039648,Chèque consommation,Restaurant,4.892463273645889
+277590,Quick Restaurant Bierges,BECO1434,Boulevard de l'Europe 51 51,1301,BIERGES,,BE,,,,0,50.7115974,4.6050143,Chèque consommation,Restaurant,4.940297184923517
+278501,la cuisine d'adèle,BECO2345,RUE DE LA BRUYÈRE 228,1332,genval,,BE,,,,0,50.7266426,4.4871616,Chèque consommation,Restaurant,5.130377440132916
+277753,GRECO,BECO1597,PLACE HENRI BERGER 15,1300,WAVRE,,BE,,,,0,50.7160492,4.6056271,Chèque consommation,Restaurant,5.185485658058251
+278944,EXKI,BECO2791,AVENUE ZENOBE GRAMME 23,1300,WAVRE,,BE,,,,0,50.7347069,4.5789752,Chèque consommation,Restaurant,5.211181467793097
+278952,EXKI,BECO2799,Avenue Vésale 1,1300,Wavre,,BE,,,,0,50.7318535,4.5862284,Chèque consommation,Restaurant,5.244687690870442
