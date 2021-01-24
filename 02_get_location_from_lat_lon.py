@@ -13,6 +13,10 @@ reverse = RateLimiter(geolocator.reverse, min_delay_seconds = 1, return_value_on
 location = reverse((50.6687965, 5.6872244))
 print(location.raw)
 print(json.dumps(location.raw, indent=2))
+elem = location.raw
+print(elem['display_name'])
+elem_address = elem['address']
+print(elem_address["town"])
 
 """
 {  
